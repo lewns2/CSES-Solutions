@@ -24,7 +24,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 1. [Missing Number](/Introductory%20Problems/Missing%20Number.cpp)
 1. [Repetitions](/Introductory%20Problems/Repetitions.cpp)
 1. Increasing Array
-1. [Permutations](/Introductory%20Problems/Permutations%20I.cpp)
+1. [Permutations](/Introductory%20Problems/Permutations.cpp)
 1. Number Spiral
 1. Two Knights
 1. Two Sets
@@ -101,10 +101,10 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 
 ## Graph Algorithms
 
-1. [Counting Rooms](/Graph%20Algorithms/Counting%20Rooms.cpp)
+1. [Counting Rooms](/Graph%20Algorithms/Counting%20Rooms.cpp) `구역 갯수`
 1. Labyrinth
 1. Building Roads
-1. [Message Route](/Graph%20Algorithms/Message%20Route.cpp)
+1. [Message Route](/Graph%20Algorithms/Message%20Route.cpp) `bfs/dfs 역추적`
 1. Building Teams
 1. Round Trip
 1. Monsters
