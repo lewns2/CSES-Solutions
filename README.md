@@ -7,7 +7,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Introductory Problems |     4/19     |
 | Sorting and Searching |     1/35     |
 | Dynamic Programming   |     0/19     |
-| Graph Algorithms      |     2/36     |
+| Graph Algorithms      |     3/36     |
 | Range Queries         |     0/19     |
 | Tree Algorithms       |     0/16     |
 | Mathematics           |     0/31     |
@@ -15,7 +15,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **6/300**  |
+| **Total**             |  **7/300**  |
 
 # Table of Contents
 
@@ -103,7 +103,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 
 1. [Counting Rooms](/Graph%20Algorithms/Counting%20Rooms.cpp) `구역 갯수`
 1. Labyrinth
-1. Building Roads
+1. [Building Roads](/Graph%20Algorithms/Counting%20Building%20Roads.cpp) `도로 연결 : UF`
 1. [Message Route](/Graph%20Algorithms/Message%20Route.cpp) `bfs/dfs 역추적`
 1. Building Teams
 1. Round Trip
