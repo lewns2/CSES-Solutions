@@ -2,6 +2,7 @@
 using namespace std;
 
 #define ll long long
+#define INFL 1e18
 #define INF 1e9
 
 const int mxN = 550;
@@ -14,7 +15,7 @@ int main() {
 
     for(int i=1; i<=n; i++) {
         for(int j=1; j<=n; j++) {
-            dist[i][j] = 0x3f;
+            dist[i][j] = INFL;
         }
         dist[i][i] = 0;
     }
@@ -22,6 +23,7 @@ int main() {
     for(int i=0; i<m; i++) {
         ll fr, to, val; cin >> fr >> to >> val;
         dist[fr][to] = min(dist[fr][to], val);
+        dist[to][fr] = min(dist[to][fr], val);
     }
 
     for(int k=1; k<=n; k++) {
@@ -31,10 +33,9 @@ int main() {
             }
         }
     }
-
     while(q--) {
         int a, b; cin >> a >> b;
-        if(dist[a][b] == INF) {
+        if(dist[a][b] == INFL) {
             cout << -1 << "\n";
         }
         else {
