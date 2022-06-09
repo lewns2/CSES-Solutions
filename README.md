@@ -7,7 +7,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Introductory Problems |     4/19     |
 | Sorting and Searching |     1/35     |
 | Dynamic Programming   |     0/19     |
-| Graph Algorithms      |     9/36     |
+| Graph Algorithms      |     11/36     |
 | Range Queries         |     0/19     |
 | Tree Algorithms       |     0/16     |
 | Mathematics           |     0/31     |
@@ -15,7 +15,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **14/300**  |
+| **Total**             |  **16/300**  |
 
 # Table of Contents
 
@@ -116,7 +116,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 1. [Flight Routes](/Graph%20Algorithms/Flight%20Routes.cpp) `K번째 최단 경로` `다익스트라`
 1. Round Trip II
 1. [Course Schedule](/Graph%20Algorithms/Course%20Schedule.cpp) `위상정렬`
-1. Longest Flight Route
+1. [Longest Flight Route](/Graph%20Algorithms/Longest%20Flight%20Route.cpp) `DFS 역이용 dp` `경로 중 N까지의 도달 여부 및 가장 긴 거리 판단`
 1. Game Routes
 1. Investigation
 1. Planets Queries I
