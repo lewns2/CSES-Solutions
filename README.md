@@ -5,7 +5,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     4/19     |
-| Sorting and Searching |     2/35     |
+| Sorting and Searching |     7/35     |
 | Dynamic Programming   |     0/19     |
 | Graph Algorithms      |     12/36     |
 | Range Queries         |     0/19     |
@@ -15,7 +15,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **17/300**  |
+| **Total**             |  **23/300**  |
 
 # Table of Contents
 
@@ -43,11 +43,11 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
 1. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
-1. Ferris Wheel
-1. Concert Tickets
-1. Restaurant Customers
-1. Movie Festival
-1. Sum of Two Values
+1. [Ferris Wheel](/Sorting%20and%20Searching/Ferris%20Wheel.cpp) `투포인터`
+1. [Concert Tickets](/Sorting%20and%20Searching/Concert%20Tickets.cpp) `멀티셋 lower_bound` `이분 탐색만으론 방문 처리의 어려움이 있음`
+1. [Restaurant Customers](/Sorting%20and%20Searching/Restaurant%20Customers.cpp) `in/out`
+1. [Movie Festival](/Sorting%20and%20Searching/Movie%20Festival.cpp) `그리디` `스케쥴 문제`
+1. [Sum of Two Values](/Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp) `map` `map을 통한 특정값 찾기`
 1. Maximum Subarray Sum
 1. Stick Lengths
 1. Missing Coin Sum
