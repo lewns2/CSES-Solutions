@@ -5,7 +5,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     4/19     |
-| Sorting and Searching |     1/35     |
+| Sorting and Searching |     2/35     |
 | Dynamic Programming   |     0/19     |
 | Graph Algorithms      |     12/36     |
 | Range Queries         |     0/19     |
@@ -42,7 +42,7 @@ Over 270 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
-1. Apartments
+1. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
 1. Ferris Wheel
 1. Concert Tickets
 1. Restaurant Customers
