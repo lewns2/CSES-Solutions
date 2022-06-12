@@ -5,7 +5,7 @@
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     4/19     |
-| Sorting and Searching |     7/35     |
+| Sorting and Searching |     10/35     |
 | Dynamic Programming   |     0/19     |
 | Graph Algorithms      |     12/36     |
 | Range Queries         |     0/19     |
@@ -15,7 +15,7 @@
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **23/300**  |
+| **Total**             |  **26/300**  |
 
 # Table of Contents
 
@@ -48,9 +48,9 @@
 1. [Restaurant Customers](/Sorting%20and%20Searching/Restaurant%20Customers.cpp) `in/out`
 1. [Movie Festival](/Sorting%20and%20Searching/Movie%20Festival.cpp) `그리디` `스케쥴 문제`
 1. [Sum of Two Values](/Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp) `map` `map을 통한 특정값 찾기`
-1. Maximum Subarray Sum
-1. Stick Lengths
-1. Missing Coin Sum
+1. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
+1. [Stick Lengths](/Sorting%20and%20Searching/Stick%20Lengths.cpp)
+1. [Missing Coin Sum](/Sorting%20and%20Searching/MissingvCoin%20Sum.cpp) `prefix` `만들 수 없는 부분집합의 합의 최소`
 1. Collecting Numbers
 1. Collecting Numbers II
 1. Playlist
