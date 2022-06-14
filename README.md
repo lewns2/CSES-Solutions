@@ -7,7 +7,7 @@
 | Introductory Problems |     4/19     |
 | Sorting and Searching |     10/35     |
 | Dynamic Programming   |     2/19     |
-| Graph Algorithms      |     12/36     |
+| Graph Algorithms      |     15/36     |
 | Range Queries         |     0/19     |
 | Tree Algorithms       |     0/16     |
 | Mathematics           |     0/31     |
@@ -15,7 +15,7 @@
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **28/300**  |
+| **Total**             |  **31/300**  |
 
 # Table of Contents
 
@@ -122,7 +122,7 @@
 1. Planets Queries I
 1. Planets Queries II
 1. Planets Cycles
-1. [Road Reparation](/Graph%20Algorithms/Road%20Reparation.cpp) `MST` `IMPOSSIBLE case`
+1. [Road Reparation](/Graph%20Algorithms/Road%20Reparation.cpp) `MST` `edge = vertex - 1`
 1. [Road Construction](/Graph%20Algorithms/Road%20Construction.cpp) `DSU` `count components` `largest component`
 1. [Flight Routes Check](/Graph%20Algorithms/Flight%20Routes%20Check.cpp) `SCC` `SCC 컴포넌트 간 차수, 연결`
 1. Planets and Kingdoms
