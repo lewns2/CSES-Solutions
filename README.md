@@ -6,7 +6,7 @@
 |-----------------------|:-------------:|
 | Introductory Problems |     4/19     |
 | Sorting and Searching |     10/35     |
-| Dynamic Programming   |     0/19     |
+| Dynamic Programming   |     2/19     |
 | Graph Algorithms      |     12/36     |
 | Range Queries         |     0/19     |
 | Tree Algorithms       |     0/16     |
@@ -15,7 +15,7 @@
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **26/300**  |
+| **Total**             |  **28/300**  |
 
 # Table of Contents
 
@@ -79,8 +79,8 @@
 
 ## Dynamic Programming
 
-1. Dice Combinations
-1. Minimizing Coins
+1. [Dice Combinations](/Dynamic%20Programming/Dice%20Combinations.cpp) `N을 만드는 방법의 수`
+1. [Minimizing Coins](/Dynamic%20Programming/Minimizing%20Coins.cpp) `주어진 자원을 통해 목표를 만드는 최소 횟수`
 1. Coin Combinations I
 1. Coin Combinations II
 1. Removing Digits
@@ -122,9 +122,9 @@
 1. Planets Queries I
 1. Planets Queries II
 1. Planets Cycles
-1. Road Reparation
-1. Road Construction
-1. Flight Routes Check
+1. [Road Reparation](/Graph%20Algorithms/Road%20Reparation.cpp) `MST` `IMPOSSIBLE case`
+1. [Road Construction](/Graph%20Algorithms/Road%20Construction.cpp) `DSU` `count components` `largest component`
+1. [Flight Routes Check](/Graph%20Algorithms/Flight%20Routes%20Check.cpp) `SCC` `SCC 컴포넌트 간 차수, 연결`
 1. Planets and Kingdoms
 1. Giant Pizza
 1. Coin Collector
