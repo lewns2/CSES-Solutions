@@ -81,7 +81,7 @@
 
 1. [Dice Combinations](/Dynamic%20Programming/Dice%20Combinations.cpp) `N을 만드는 방법의 수`
 1. [Minimizing Coins](/Dynamic%20Programming/Minimizing%20Coins.cpp) `주어진 자원을 통해 목표를 만드는 최소 횟수`
-1. Coin Combinations I
+1. [Coin Combinations I](/Dynamic%20Programming/Coin%20Combinations%20I.cpp) `주어진 자원을 통해 목표를 만드는 방법의 수`
 1. Coin Combinations II
 1. Removing Digits
 1. Grid Paths
