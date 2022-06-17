@@ -5,8 +5,8 @@
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     4/19     |
-| Sorting and Searching |     10/35     |
-| Dynamic Programming   |     2/19     |
+| Sorting and Searching |     11/35     |
+| Dynamic Programming   |     3/19     |
 | Graph Algorithms      |     15/36     |
 | Range Queries         |     0/19     |
 | Tree Algorithms       |     0/16     |
@@ -15,7 +15,7 @@
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **31/300**  |
+| **Total**             |  **33/300**  |
 
 # Table of Contents
 
@@ -51,7 +51,7 @@
 1. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
 1. [Stick Lengths](/Sorting%20and%20Searching/Stick%20Lengths.cpp)
 1. [Missing Coin Sum](/Sorting%20and%20Searching/MissingvCoin%20Sum.cpp) `prefix` `만들 수 없는 부분집합의 합의 최소`
-1. Collecting Numbers
+1. [Collecting Numbers](/Sorting%20and%20Searching/Collecting%20Numbers.cpp) `두 개씩 비교`
 1. Collecting Numbers II
 1. Playlist
 1. Towers
