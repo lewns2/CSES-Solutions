@@ -9,13 +9,13 @@
 | Dynamic Programming   |     3/19     |
 | Graph Algorithms      |     15/36     |
 | Range Queries         |     0/19     |
-| Tree Algorithms       |     0/16     |
+| Tree Algorithms       |     3/16     |
 | Mathematics           |     0/31     |
 | String Algorithms     |     0/17     |
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **33/300**  |
+| **Total**             |  **36/300**  |
 
 # Table of Contents
 
@@ -162,12 +162,12 @@
 
 ## Tree Algorithms
 
-1. Subordinates
+1. [Subordinates](Tree%20Algorithms/Subordinates.cpp) `서브 트리의 정점 수 구하기`
 1. Tree Matching
-1. Tree Diameter
+1. [Tree Diameter](Tree%20Algorithms/Tree%20Matching.cpp) `트리의 지름 구하기`
 1. Tree Distances I
 1. Tree Distances II
-1. Company Queries I
+1. [Company Queries I](Tree%20Algorithms/Company%20Queries%20I.cpp) `단일 정점에서의 조상 찾기`
 1. Company Queries II
 1. Distance Queries
 1. Counting Paths
